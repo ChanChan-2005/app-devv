@@ -45,12 +45,6 @@ It reminds us that even fleeting moments can leave lasting impacts.
 - Beautiful cinematography  
 - Touching soundtrack  
 
-### Code Example
-
-`Miyu.drawCloser(); // Symbolic moment of acceptance`
-
-### Horizontal Rule
-
 ---
 
 ### Link
